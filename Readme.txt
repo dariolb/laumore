@@ -5,5 +5,8 @@
 # Inicio: 05-01-2015
 # Ver LICENSE para información sobre la licencia de este proyecto
 ###############################################################################
+# RAMA-1:
+# Texto agregado mediante la rama-1 creada a tal fin
+
 # RAMA 2
 # Modificaciones realizadas en la rama-2
