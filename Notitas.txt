@@ -1,0 +1,7 @@
+###############################################################################
+# Notas sobre laumore HTML Website
+###############################################################################
+
+# Fecha: 05-01-2015
+# Creación del archivo
+Estamos agregando unos ligeros cambios al archivo
